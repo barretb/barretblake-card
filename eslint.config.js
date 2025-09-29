@@ -4,5 +4,6 @@ import rg from "eslint-config-reverentgeek"; // eslint-disable-line n/no-unpubli
 export default defineConfig( {
 	extends: [ rg.configs["node-esm"] ],
 	rules: {
+		"linebreak-style": 0
 	}
 } );

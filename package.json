@@ -1,25 +1,25 @@
 {
-	"name": "reverentgeek",
-	"version": "3.0.0",
-	"description": "My personal calling card.",
+	"name": "barretcodes",
+	"version": "3.0.2",
+	"description": "Personal card for Barret Blake based off ReverentGeek's design.",
 	"main": "./bin/card.js",
 	"bin": {
-		"reverentgeek": "./bin/card.js"
+		"barretcodes": "./bin/card.js"
 	},
 	"type": "module",
 	"scripts": {
 		"lint": "eslint bin/*.js art/*.js"
 	},
 	"keywords": [
-		"David",
-		"Neal",
-		"reverentgeek"
+		"Barret",
+		"Blake",
+		"barretcodes"
 	],
-	"author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
+	"author": "Barret Blake <barretblake@live.com> (https://barretblake.dev)",
 	"license": "MIT",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/reverentgeek/reverentgeek-card.git"
+		"url": "https://github.com/barretb/barretblake-card.git"
 	},
 	"dependencies": {
 		"boxen": "^8.0.1",
