@@ -1,21 +1,18 @@
 export const artOrder = [ "avatar", "banner" ];
 
 export const profile = {
-	name: "DAVID NEAL",
-	handle: "reverentgeek",
-	bio: "David is a family man, geek, musician, illustrator, speaker, software developer, and Microsoft MVP living in North GA. He runs on a high-octane mixture of caffeine and JavaScript, and is entirely made of bacon.",
+	name: "BARRET BLAKE",
+	handle: "barretcodes",
+	bio: "I wear many hats. Father, husband, Microsoft MVP, developer, Azure Solutions Architect, gamer, blogger, speaker, teacher, mentor, model railroader, Buckeyes fan, and more. When I can find the time, I sprinkle a bit of my coding knowledge and experience to share with whoever might find it of worth.",
 	infoSections: [
-		{ label: "Work", value: [ "Developer Relations Engineer", "https://plaid.com" ], style: "gradient", leadingNewline: true },
-		{ label: "Handle", value: "reverentgeek", style: "yellow" },
-		{ label: "Portfolio", value: "https://reverentgeek.com", style: "yellow" },
-		{ label: "Email", value: "david@reverentgeek.com", style: "yellow" },
-		{ label: "LinkedIn", value: "https://linkedin.com/in/davidneal", style: "yellow" },
-		{ label: "GitHub", value: "https://github.com/reverentgeek", style: "yellow" },
-		{ label: "Instagram", value: "https://instagram.com/reverentgeek", style: "yellow" },
-		{ label: "Mastodon", value: "@reverentgeek@reverentgeek.com", style: "yellow" },
-		{ label: "BlueSky", value: "@reverentgeek.com", style: "yellow" },
-		{ label: "Threads", value: "@reverentgeek", style: "yellow" },
-		{ label: "X", value: "https://x.com/reverentgeek", style: "yellow" },
-		{ label: "Card", value: "npx reverentgeek", style: "orange", leadingNewline: true }
+		{ label: "Work", value: [ "Architect", "https://nimblepros.com" ], style: "gradient", leadingNewline: true },
+		{ label: "Handle", value: "barretcodes", style: "yellow" },
+		{ label: "Portfolio", value: "https://barretblake.dev", style: "yellow" },
+		{ label: "Email", value: "barretblake@live.com", style: "yellow" },
+		{ label: "LinkedIn", value: "https://linkedin.com/in/barretblake", style: "yellow" },
+		{ label: "GitHub", value: "https://github.com/barretb", style: "yellow" },
+		{ label: "Mastodon", value: "https://mstdn.social/@barret", style: "yellow" },
+		{ label: "BlueSky", value: "@barretblake.dev", style: "yellow" },
+		{ label: "Card", value: "npx barretcodes", style: "orange", leadingNewline: true }
 	]
 };
