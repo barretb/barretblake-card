@@ -30,3 +30,5 @@ For more info, check out the [official npm publish guide](https://docs.npmjs.com
 ## Credit
 
 Completely *borrowed* this idea from [ReverentGeek](https://github.com/bnb/reverentgeek-card), who *borrowed* it from [Tierney](https://github.com/bnb/bitandbang) :)
+
+![Sample Image](npx-barretcodes.png)
