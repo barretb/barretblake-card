@@ -1,4 +1,4 @@
-# BarretBlake Calling Card
+# Barret Blake Calling Card
 
 In case you ever need my information and all you have is a terminal and `npm`.
 
